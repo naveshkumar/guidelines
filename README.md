@@ -55,6 +55,8 @@ Edit README.md and add an informative title and description
 Commit README.md
 Push this commit to GitHub (remember to pull first!)
 Reload this repository in your web browser and appreciate your beautifully rendered README.md
+
+
 Push an existing RStudio project to GitHub
 Open GitHub in your web browser
 Create a new repository
